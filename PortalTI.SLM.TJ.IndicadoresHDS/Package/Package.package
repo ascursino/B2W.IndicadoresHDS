@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7809e7d4-399d-4cf0-a2fb-30ac896d37b5" solutionId="7809e7d4-399d-4cf0-a2fb-30ac896d37b5" resetWebServer="false" sharePointProductVersion="15.0" name="PortalTI.SLM.TJ.IndicadoresHDS" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="570ff563-f680-4537-95e4-7e13b31f7b0c" />
+  </features>
+</package>
